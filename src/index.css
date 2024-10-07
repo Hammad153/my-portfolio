@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base { 
+    body {
+       @apply font-[Railway];
+    }
+    li {
+        @apply px-4;
+        @apply cursor-pointer;
+    }
+}
+
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 230px;
+} 
+
+.content-div:hover {
+    background-image: linear-gradient(
+        to right,
+       rgba(112, 157, 225, 0.3),
+       hsla(252, 52%, 28%, 0.8)
+    )!important;
+}
