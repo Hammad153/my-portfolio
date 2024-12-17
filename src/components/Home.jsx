@@ -22,7 +22,7 @@ const Home = () => {
                 i`ve honed myself my skills in these echnologies: "html5, CSS3, javascript, Node.js, and javascript Frameworks working with various technologies with API(REST, GraphQl...), Backend development, cloud technologies..."
             </p>
             <p className='text-pink-300 max-w-[700px]'>
-                I have more than 3 years of Experience building responive websites, e-commerce platforms, and web applications, user-centered design. 
+                I have more than 2 years of Experience building responive websites, e-commerce platforms, and web applications, user-centered design. 
             </p>
 
             <div>
